@@ -47,6 +47,15 @@ const Home: NextPage = () => {
           </a>
           <a
             className={aclass}
+            href="https://linkedin.com/in/stephancill"
+            title="Stephan Cilliers"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            linkedin
+          </a>
+          <a
+            className={aclass}
             href="https://twitter.com/stephancill"
             title="@stephancill"
             target="_blank"
