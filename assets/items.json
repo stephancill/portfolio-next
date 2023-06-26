@@ -1,0 +1,258 @@
+{
+  "Current": [
+    {
+      "year": "2019 - 2022",
+      "items": [
+        {
+          "heading": "Student - BSc(Eng) Electrical & Computer Engineering",
+          "body": "Prospective 2022 honours graduate from the University of Cape Town. Appeared on the Dean's List and maintained a 70% cumulative GPA.",
+          "tags": [
+            "Embedded Systems",
+            "Digital Signal Processing",
+            "Control Systems",
+            "Computer Science"
+          ],
+          "link": "",
+          "icon": "https://uct.ac.za/themes/custom/blip_uct/favicon.ico"
+        }
+      ]
+    },
+    {
+      "year": "2019 - Present",
+      "items": [
+        {
+          "heading": "Co-founder - Neon Solutions (Pty) Ltd.",
+          "body": "Built a technology company that develops custom digital analytics solutions for businesses with an agile development approach. Wrote business proposals, negotiated terms, designed and developed products in a team environment, offered product support and maintenance.",
+          "tags": [
+            "Business skills",
+            "Product development",
+            "Agile"
+          ],
+          "link": "https://neonsolutions.co.za",
+          "icon": "https://neonsolutions.co.za/static/favicons/favicon-32x32.png"
+        }
+      ]
+    },
+    {
+      "year": "2022 - Present",
+      "items": [
+        {
+          "heading": "Co-founder - Onset Carbon, Inc.",
+          "body": "Founded a company with a mission to make carbon offsetting more accessible and verifiable through the use of blockchain technology. Incorporated a U.S. entity, developed a fully functional minimum viable product, and secured grant funding to support ongoing development and growth.",
+          "tags": [
+            "Startup",
+            "Web3",
+            "Carbon markets"
+          ],
+          "link": "https://www.onsetcarbon.com",
+          "icon": "https://www.onsetcarbon.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "year": "2018 - 2020",
+      "items": [
+        {
+          "heading": "Part-time developer - Glucode (Pty) Ltd.",
+          "body": "Had two stints as an intern at their offices in Gauteng and another as a remote part time developer. This was over the span of 2 years totalling roughly 5 months. Worked on various projects including a companion app for a hardware device and a sports club app. Applied problem solving, agile development in a team, and debugging skills.",
+          "tags": [
+            "iOS",
+            "Swift"
+          ],
+          "link": "https://glucode.com",
+          "icon": "https://static2.glucode.com/assets/favicon-a85d935622466f749ed8b95f6bb267b0e2adfe63f7897a3d120875e4e3194d27.ico"
+        }
+      ]
+    }
+  ],
+  "Projects": [
+    {
+      "heading": "Alpha Feed",
+      "year": "2023-",
+      "body": "System that helps people keep up with AI research by ingesting news from RSS feeds, scoring them on metrics such as relevance, novelty, and impact, and surfacing the highest scoring posts in a daily newsletter.",
+      "link": "https://alphafeed.xyz",
+      "tags": [
+        "SaaS",
+        "Research",
+        "Social media",
+        "Next.js",
+        "TypeScript",
+        "React",
+        "Prisma"
+      ]
+    },
+    {
+      "heading": "musicwatch",
+      "year": "2023-",
+      "body": "The missing social layer for music streaming. It lets you view friend listening activity, send/receive/react to song recommendations, and curate playlists in groups.",
+      "tags": [
+        "Social music",
+        "Next.js",
+        "TypeScript",
+        "React",
+        "Prisma"
+      ]
+    },
+    {
+      "heading": "Hardware Acceleration of zk-SNARKs",
+      "year": "2022-2023",
+      "body": "My honours thesis investigated the hardware acceleration of zk-SNARKs using FPGAs. Placed top 3 in my class.",
+      "tags": [
+        "Thesis",
+        "zk-SNARKs",
+        "FPGA",
+        "SystemVerilog",
+        "Cryptography"
+      ]
+    },
+    {
+      "heading": "Neon Analytics by Neon Solutions",
+      "year": "2018-",
+      "body": "LinkedIn marketing analytics platform built in collaboration with Turn Left Media.",
+      "tags": [
+        "SaaS",
+        "LinkedIn Marketing API",
+        "Sanic",
+        "Jinja",
+        "Python"
+      ],
+      "link": "https://analytics.neonsolutions.co.za",
+      "icon": "https://analytics.neonsolutions.co.za/static/favicons/favicon-32x32.png"
+    },
+    {
+      "heading": "Synthetic Loot Viewer",
+      "year": "2022",
+      "body": "A visual representation of the Loot bag associated with every Ethereum wallet. Went [viral](https://twitter.com/imTokenOfficial/status/1434083387996721155) [on](https://twitter.com/dhof/status/1433802696734162946) [Twitter](https://twitter.com/stephancill/status/1433800337639489536). Learn more about loot at [lootproject.com](https://lootproject.com).",
+      "tags": [
+        "Loot",
+        "TypeScript",
+        "React",
+        "ethers.js"
+      ],
+      "link": "https://loot.stephancill.co.za",
+      "icon": "https://loot.stephancill.co.za/favicon.ico"
+    },
+    {
+      "heading": "Ethereum Friend Directory",
+      "year": "2022",
+      "body": "A portable list of mutuals for the decentralized web. Lets you build connections with other ethereum accounts on-chain.",
+      "tags": [
+        "DeSo",
+        "Goerli",
+        "Solidity",
+        "React",
+        "ethers.js"
+      ],
+      "link": "https://efd.stephancill.co.za",
+      "icon": "https://raw.githubusercontent.com/stephancill/efd/master/client/public/favicon.ico"
+    },
+    {
+      "heading": "ForwardMail",
+      "body": "A simple proxy for your email address which creates aliases which can be easily disconnected to prevent unwanted email spam.",
+      "year": "2020",
+      "tags": [
+        "Privacy",
+        "Django",
+        "HTML",
+        "CSS",
+        "jQuery",
+        "Python"
+      ],
+      "link": "https://forwardmail.rocks",
+      "icon": "https://forwardmail.rocks/static/favicons/favicon-192.png"
+    },
+    {
+      "heading": "MovieCheck",
+      "year": "2020",
+      "body": "Your personal entertainment portfolio. Easily track and review movies you’ve seen and want to see.",
+      "tags": [
+        "Entertainment",
+        "Sanic",
+        "Jinja",
+        "HTML",
+        "CSS",
+        "jQuery",
+        "Python"
+      ],
+      "link": "https://github.com/stephancill/moviecheck",
+      "icon": "https://raw.githubusercontent.com/stephancill/moviecheck/master/static/img/favicons/favicon-114.png"
+    },
+    {
+      "heading": "Cell TraQ",
+      "year": "2018",
+      "body": "Thermal camera system that monitors temperatures at electrochemical plants to improve efficiency for MasQ Brands",
+      "tags": [
+        "IoT",
+        "Remote Sensing",
+        "Vue.js",
+        "Python",
+        "Flask"
+      ],
+      "link": "https://masq.co.za/cell-traq/",
+      "icon": "https://masq.co.za/wp-content/uploads/2018/07/MasQ-Web-150x139.png"
+    },
+    {
+      "heading": "Simple Learning Time",
+      "year": "2016",
+      "body": "Simple Learning Time was built as a replacement for an app that was used at Parklands College to teach junior learners how to tell time. It is used in multiple schools across South Africa and several other countries.",
+      "tags": [
+        "Education",
+        "iOS",
+        "Swift"
+      ],
+      "link": "https://itunes.apple.com/za/app/simple-learning-time/id1096092596?mt=8",
+      "icon": "https://github.com/stephancill/simple-learning-time/blob/master/SimpleLearningTime/Assets.xcassets/AppIcon.appiconset/Icon-83.5@2x.png?raw=true"
+    }
+  ],
+  "Links": [
+    {
+      "title": "Github",
+      "username": "@stephancill",
+      "link": "https://github.com/stephancill"
+    },
+    {
+      "title": "Twitter",
+      "username": "@stephancill",
+      "link": "https://twitter.com/stephancill"
+    },
+    {
+      "title": "LinkedIn",
+      "username": "@stephancill",
+      "link": "https://linkedin.com/in/stephancill"
+    }
+  ],
+  "Achievements": [
+    {
+      "year": "2016 - 2018",
+      "items": [
+        {
+          "heading": "3x Apple WWDC Scholar",
+          "body": "Invited to attend the World Wide Developers Conference in California through Apple's Scholarship programme on three occasions.",
+          "link": "https://www.wwdcscholars.com/s/497A8A1C-4520-48C8-8006-862DEFC29EC4",
+          "icon": "https://apple.com/favicon.ico",
+          "tags": [
+            "Apple",
+            "Swift",
+            "iOS"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2017",
+      "items": [
+        {
+          "heading": "WRO 2017 Advanced Robotics Challenge Internationals",
+          "body": "Team Infinity placed 9th out of 25 teams in the Advanced Robotics Challenge at the World Robot Olympiad in Costa Rica. The challenge was to build a robot that plays a tetris-like game where it has to pick up randomly selected tetracubes and place them in an upright frame to form rows to score points.",
+          "icon": "https://wro-association.org/wp-content/uploads/world-robot-olympiad_logo-white.png",
+          "tags": [
+            "Mechatronics",
+            "Autonomous robotics",
+            "Embedded Systems",
+            "LabView"
+          ]
+        }
+      ]
+    }
+  ]
+}
