@@ -77,7 +77,7 @@ const Home: NextPage = () => {
                     </span>
                     <span>{project.year}</span>
                   </div>
-                  <ReactMarkdown>{project.body}</ReactMarkdown>
+                  <ReactMarkdown linkTarget={"_blank"}>{project.body}</ReactMarkdown>
                   {project.tags && <div className="text-gray-500">{project.tags.join(" • ")}</div>}
                 </li>
               </div>
