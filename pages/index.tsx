@@ -7,7 +7,7 @@ const Home: NextPage = () => {
   const aclass = "p-1 hover:underline text-blue-500"
 
   return (
-    <div className="p-8">
+    <div className="flex justify-center">
       <Head>
         <title>Stephan Cilliers</title>
         <meta
@@ -17,7 +17,7 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className="p-16">
+      <main className="max-w-xl p-4">
         <h1 className="flex justify-center text-3xl">stephan cilliers</h1>
 
         <div className="flex p-1 justify-center">
@@ -84,6 +84,7 @@ const Home: NextPage = () => {
             ))}
           </ul>
         </section>
+        <footer className="flex justify-center mt-2">Stephan Cilliers &copy; {new Date().getFullYear()}</footer>
       </main>
     </div>
   )

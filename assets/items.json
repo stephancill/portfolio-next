@@ -94,18 +94,6 @@
       ]
     },
     {
-      "heading": "Hardware Acceleration of zk-SNARKs",
-      "year": "2022-2023",
-      "body": "My honours thesis investigated the hardware acceleration of zk-SNARKs using FPGAs. Placed top 3 in my class.",
-      "tags": [
-        "Thesis",
-        "zk-SNARKs",
-        "FPGA",
-        "SystemVerilog",
-        "Cryptography"
-      ]
-    },
-    {
       "heading": "Neon Analytics by Neon Solutions",
       "year": "2018-",
       "body": "LinkedIn marketing analytics platform built in collaboration with Turn Left Media.",
@@ -118,6 +106,30 @@
       ],
       "link": "https://analytics.neonsolutions.co.za",
       "icon": "https://analytics.neonsolutions.co.za/static/favicons/favicon-32x32.png"
+    },
+    {
+      "heading": "Hardware Acceleration of zk-SNARKs",
+      "year": "2022-2023",
+      "body": "My honours thesis investigated the hardware acceleration of zk-SNARKs using FPGAs. Placed top 3 in my class.",
+      "tags": [
+        "Thesis",
+        "zk-SNARKs",
+        "FPGA",
+        "SystemVerilog",
+        "Cryptography"
+      ]
+    },
+    {
+      "heading": "Various fully on-chain NFT projects",
+      "year": "2022-2023",
+      "body": "[Synthetic Nouns](https://nouns.stephancill.co.za), [Solar Systems](https://onchainsolar.systems), [Kaleidoscopes](https://onchainkaleidoscopes.xyz), [Black Holes](https://onchainblackholes.com), [ΞPlanets](https://etherplanets.com).",
+      "tags": [
+        "NFT",
+        "Solidity",
+        "TypeScript",
+        "React"
+      ],
+      "icon": "https://nouns.stephancill.co.za/favicon.ico"
     },
     {
       "heading": "Synthetic Loot Viewer",
