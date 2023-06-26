@@ -110,7 +110,8 @@
     {
       "heading": "Hardware Acceleration of zk-SNARKs",
       "year": "2022-2023",
-      "body": "My honours thesis investigated the hardware acceleration of zk-SNARKs using FPGAs. Placed top 3 in my class.",
+      "body": "My honours thesis investigated the hardware acceleration of zk-SNARKs using FPGAs (placed top 3)",
+      "link": "https://github.com/stephancill/msm-hardware-acceleration",
       "tags": [
         "Thesis",
         "zk-SNARKs",
