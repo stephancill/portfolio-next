@@ -12,13 +12,19 @@ const Home: NextPage = () => {
         <title>Stephan Cilliers</title>
         <meta
           name="description"
-          content="wannabe cypherpunk. interested in permissionless protocols, cryptography, embedded systems."
+          content="electrical & computer engineering graduate interested in cryptography, permissionless protocols, and embedded
+          systems"
         />
         {/* <link rel="icon" href="/favicon.ico" /> */}
       </Head>
 
       <main className="max-w-xl p-4">
         <h1 className="flex justify-center text-3xl">stephan cilliers</h1>
+
+        <div className="flex justify-center text-center">
+          founder, electrical & computer engineer interested in cryptography, permissionless protocols, and embedded
+          systems
+        </div>
 
         <div className="flex p-1 justify-center">
           <a
