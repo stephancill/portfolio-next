@@ -14,7 +14,7 @@ const Home: NextPage = () => {
           name="description"
           content="wannabe cypherpunk. interested in permissionless protocols, cryptography, embedded systems."
         />
-        <link rel="icon" href="/favicon.ico" />
+        {/* <link rel="icon" href="/favicon.ico" /> */}
       </Head>
 
       <main className="max-w-xl p-4">
