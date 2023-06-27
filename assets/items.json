@@ -133,6 +133,17 @@
       "icon": "https://nouns.stephancill.co.za/favicon.ico"
     },
     {
+      "heading": "Port - Client-side digital asset viewer",
+      "year": "2022",
+      "body": "Port is an NFT viewer and an attempt to circumvent the dependence on NFT indexers for the ethereum blockchain through the use of token lists and directly querying the blockchain.",
+      "tags": [
+        "Digital Assets",
+        "Solidity",
+        "React"
+      ],
+      "link": "https://github.com/stephancill/port-asset-viewer"
+    },
+    {
       "heading": "Synthetic Loot Viewer",
       "year": "2022",
       "body": "A visual representation of the Loot bag associated with every Ethereum wallet. Went [viral](https://twitter.com/imTokenOfficial/status/1434083387996721155) [on](https://twitter.com/dhof/status/1433802696734162946) [Twitter](https://twitter.com/stephancill/status/1433800337639489536). Learn more about loot at [lootproject.com](https://lootproject.com).",
