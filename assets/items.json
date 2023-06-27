@@ -100,7 +100,7 @@
       "tags": [
         "SaaS",
         "LinkedIn Marketing API",
-        "Sanic",
+        "Flask",
         "Jinja",
         "Python"
       ],
@@ -138,6 +138,7 @@
       "body": "Port is an NFT viewer and an attempt to circumvent the dependence on NFT indexers for the ethereum blockchain through the use of token lists and directly querying the blockchain.",
       "tags": [
         "Digital Assets",
+        "TypeScript",
         "Solidity",
         "React"
       ],
