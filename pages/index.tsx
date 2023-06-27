@@ -27,13 +27,7 @@ const Home: NextPage = () => {
         </div>
 
         <div className="flex p-1 justify-center">
-          <a
-            className={aclass}
-            href="mailto:stephan at stephancill dot co dot za"
-            target="_blank"
-            rel="noopener noreferrer"
-            title="stephan at stephancill dot co dot za"
-          >
+          <a className={aclass} href="mailto:stephan@stephancill.co.za">
             email
           </a>
           <a
