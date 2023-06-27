@@ -161,7 +161,7 @@
     },
     {
       "heading": "ForwardMail",
-      "body": "A simple proxy for your email address which creates aliases which can be easily disconnected to prevent unwanted email spam.",
+      "body": "A simple proxy for your email address which creates aliases which can be easily disconnected to prevent unwanted email spam. Discontinued, but still used by a few people.",
       "year": "2020",
       "tags": [
         "Privacy",
@@ -171,16 +171,15 @@
         "jQuery",
         "Python"
       ],
-      "link": "https://forwardmail.rocks",
-      "icon": "https://forwardmail.rocks/static/favicons/favicon-192.png"
+      "link": "https://github.com/stephancill/forwardmail"
     },
     {
       "heading": "MovieCheck",
       "year": "2020",
-      "body": "Your personal entertainment portfolio. Easily track and review movies you’ve seen and want to see.",
+      "body": "Your personal entertainment portfolio. Easily track and review movies you've seen and want to see.",
       "tags": [
         "Entertainment",
-        "Sanic",
+        "Flask",
         "Jinja",
         "HTML",
         "CSS",
