@@ -67,6 +67,20 @@
   ],
   "Projects": [
     {
+      "heading": "opencast - open source farcaster client",
+      "year": "2023-",
+      "body": "The goal of this project is to provide a reference implementation of a [Farcaster](https://farcaster.xyz) client in order to make it easier for developers to explore their ideas without having to start from scratch.",
+      "link": "https://github.com/stephancill/opencast",
+      "tags": [
+        "Farcaster",
+        "Social media",
+        "Next.js",
+        "TypeScript",
+        "React",
+        "Prisma"
+      ]
+    },
+    {
       "heading": "Alpha Feed",
       "year": "2023-",
       "body": "System that helps people keep up with AI research by ingesting news from RSS feeds, scoring them on metrics such as relevance, novelty, and impact, and surfacing the highest scoring posts in a daily newsletter.",
