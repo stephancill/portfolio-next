@@ -22,7 +22,7 @@ const Home: NextPage = () => {
         <h1 className="flex justify-center text-3xl">stephan cilliers</h1>
 
         <div className="flex justify-center text-center">
-          founder, electrical & computer engineer interested in cryptography, permissionless protocols, and embedded
+          ex-founder, electrical & computer engineer interested in cryptography, permissionless protocols, and embedded
           systems
         </div>
 
@@ -59,7 +59,7 @@ const Home: NextPage = () => {
           </a>
           <a
             className={aclass}
-            href="https://fcast.me/stephancill"
+            href="https://warpcast.com/stephancill"
             title="@stephancill"
             target="_blank"
             rel="noopener noreferrer"
