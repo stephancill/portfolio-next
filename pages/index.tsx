@@ -6,25 +6,21 @@ import ReactMarkdown from "react-markdown"
 const Home: NextPage = () => {
   const aclass = "p-1 hover:underline text-blue-500"
 
+  const headline =
+    "ex-founder, electrical & computer engineer interested in cryptography, permissionless protocols, and embedded systems"
+
   return (
     <div className="flex justify-center">
       <Head>
         <title>Stephan Cilliers</title>
-        <meta
-          name="description"
-          content="electrical & computer engineering graduate interested in cryptography, permissionless protocols, and embedded
-          systems"
-        />
+        <meta name="description" content={headline} />
         {/* <link rel="icon" href="/favicon.ico" /> */}
       </Head>
 
       <main className="max-w-xl p-4">
         <h1 className="flex justify-center text-3xl">stephan cilliers</h1>
 
-        <div className="flex justify-center text-center">
-          ex-founder, electrical & computer engineer interested in cryptography, permissionless protocols, and embedded
-          systems
-        </div>
+        <div className="flex justify-center text-center">{headline}</div>
 
         <div className="flex p-1 justify-center">
           <a className={aclass} href="mailto:stephan@stephancill.co.za">
@@ -47,15 +43,6 @@ const Home: NextPage = () => {
             rel="noopener noreferrer"
           >
             linkedin
-          </a>
-          <a
-            className={aclass}
-            href="https://twitter.com/stephancill"
-            title="@stephancill"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            twitter
           </a>
           <a
             className={aclass}

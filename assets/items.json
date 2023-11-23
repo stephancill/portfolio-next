@@ -67,9 +67,9 @@
   ],
   "Projects": [
     {
-      "heading": "opencast - open source farcaster client",
+      "heading": "Opencast",
       "year": "2023-",
-      "body": "The goal of this project is to provide a reference implementation of a [Farcaster](https://farcaster.xyz) client in order to make it easier for developers to explore their ideas without having to start from scratch.",
+      "body": "The first open source, fully featured [Farcaster](https://farcaster.xyz) client. The goal of this project is to provide a reference implementation of a Farcaster client in order to make it easier for developers to explore their ideas without having to start from scratch.",
       "link": "https://github.com/stephancill/opencast",
       "tags": [
         "Farcaster",
@@ -82,9 +82,9 @@
     },
     {
       "heading": "Alpha Feed",
-      "year": "2023-",
+      "year": "2023",
       "body": "System that helps people keep up with AI research by ingesting news from RSS feeds, scoring them on metrics such as relevance, novelty, and impact, and surfacing the highest scoring posts in a daily newsletter.",
-      "link": "https://alphafeed.xyz",
+      "link": "https://github.com/neonsolutions/alphafeed",
       "tags": [
         "SaaS",
         "Research",
@@ -97,7 +97,7 @@
     },
     {
       "heading": "musicwatch",
-      "year": "2023-",
+      "year": "2023",
       "link": "https://musicwatch.stephancill.co.za",
       "body": "The missing social layer for music streaming. It lets you view friend listening activity, send/receive/react to song recommendations, and curate playlists in groups.",
       "tags": [
@@ -111,7 +111,7 @@
     },
     {
       "heading": "Onset Carbon – 1-click carbon offsetting & verification",
-      "year": "2022-",
+      "year": "2022-2023",
       "body": "An API and simple interface which lets users purchase and retire on-chain carbon credits with a credit card and a tool which decodes on-chain transactions and presents them in human readable format.",
       "link": "https://onsetcarbon.com",
       "tags": [
@@ -124,7 +124,7 @@
     },
     {
       "heading": "Neon Analytics by Neon Solutions",
-      "year": "2018-",
+      "year": "2018-2023",
       "body": "LinkedIn marketing analytics platform built in collaboration with Turn Left Media.",
       "tags": [
         "SaaS",
@@ -139,7 +139,7 @@
     {
       "heading": "Hardware Acceleration of zk-SNARKs",
       "year": "2022-2023",
-      "body": "My honours thesis investigated the hardware acceleration of zk-SNARKs using FPGAs (placed top 3)",
+      "body": "Honours thesis investigating the hardware acceleration of zk-SNARKs using FPGAs.",
       "link": "https://github.com/stephancill/msm-hardware-acceleration",
       "tags": [
         "Thesis",
@@ -197,12 +197,12 @@
         "React",
         "ethers.js"
       ],
-      "link": "https://efd.stephancill.co.za",
+      "link": "https://github.com/stephancill/efd",
       "icon": "https://raw.githubusercontent.com/stephancill/efd/master/client/public/favicon.ico"
     },
     {
       "heading": "ForwardMail",
-      "body": "A simple proxy for your email address which creates aliases which can be easily disconnected to prevent unwanted email spam. Discontinued, but still used by a few people.",
+      "body": "A simple proxy for your email address which creates aliases which can be easily disconnected to prevent unwanted email spam.",
       "year": "2020",
       "tags": [
         "Privacy",
@@ -247,7 +247,7 @@
     {
       "heading": "Simple Learning Time",
       "year": "2016",
-      "body": "Simple Learning Time was built as a replacement for an app that was used at Parklands College to teach junior learners how to tell time. It is used in multiple schools across South Africa and several other countries.",
+      "body": "Simple Learning Time was built as a replacement for an app that was used at Parklands College to teach junior learners how to tell time. 40,000+ downloads and is used in multiple schools across South Africa and several other countries.",
       "tags": [
         "Education",
         "iOS",
